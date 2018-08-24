@@ -1,0 +1,1870 @@
+[
+{
+  "symbol": "ADT",
+  "address": "0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
+  "decimals": 9,
+  "name": "AdToken",
+  "ens_address": "",
+  "website": "https://adtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@metax.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/adchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/adChain",
+    "slack": "https://adchain.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/ad_chain",
+    "youtube": ""
+  }
+},
+
+{
+  "symbol": "ARN",
+  "address": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
+  "decimals": 8,
+  "name": "Aeron Token",
+  "ens_address": "",
+  "website": "https://aeron.aero",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@aeron.aero",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+
+{
+  "symbol": "AE",
+  "address": "0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d",
+  "decimals": 18,
+  "name": "aeternity",
+  "ens_address": "",
+  "website": "https://www.aeternity.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@aeternity.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.aeternity.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/aeternityproject/",
+    "forum": "",
+    "github": "https://github.com/aeternity",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Aeternity/",
+    "slack": "",
+    "telegram": "https://telegram.me/aeternity",
+    "twitter": "https://twitter.com/aetrnty",
+    "youtube": ""
+  }
+},
+
+{
+  "symbol": "AST",
+  "address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
+  "decimals": 4,
+  "name": "Airswap",
+  "ens_address": "",
+  "website": "https://airswap.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@airswap.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+
+{
+  "symbol": "AMB",
+  "address": "0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE",
+  "decimals": 18,
+  "name": "Amber Token",
+  "ens_address": "",
+  "website": "https://ambrosus.com/index.html",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.ambrosus.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ambrosusAMB",
+    "forum": "",
+    "github": "https://github.com/ambrosus",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/ambrosus",
+    "reddit": "https://www.reddit.com/r/ambrosus/",
+    "slack": "",
+    "telegram": "https://t.me/AmbrosusAMB",
+    "twitter": "https://twitter.com/AmbrosusAMB",
+    "youtube": "https://youtu.be/OkdCV6zw3lI"
+  }
+},
+
+{
+  "symbol": "APPC",
+  "address": "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB",
+  "decimals": 18,
+  "name": "AppCoins",
+  "ens_address": "",
+  "website": "https://appcoins.io",
+  "logo": {
+    "src": "https://ibb.co/jFsGsG",
+    "width": 250,
+    "height": 250,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@appcoins.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@appcoins",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AppCoinsOfficial",
+    "forum": "https://bitcointalk.org/index.php?topic=2280664.0",
+    "github": "https://github.com/Aptoide/AppCoins-ethereumj",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/AppcoinsProtocol",
+    "slack": "",
+    "telegram": "https://t.me/appcoinsofficial",
+    "twitter": "https://twitter.com/AppCoinsProject",
+    "youtube": ""
+  }
+}
+,
+
+{
+  "symbol": "LINK (Chainlink)",
+  "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+  "decimals": 18,
+  "name": "LINK Chainlink",
+  "ens_address": "",
+  "website": "https://link.smartcontract.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@smartcontract.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://chainlinknetwork.slack.com",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
+,
+{
+  "symbol": "CND",
+  "address": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
+  "decimals": 18,
+  "name": "Cindicator",
+  "ens_address": "",
+  "website": "https://cindicator.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@cindicator.com",
+    "url": "https://cindicator.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/crowdindicator",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Cindicator",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "DAI",
+  "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
+  "decimals": 18,
+  "name": "Dai Stablecoin v1.0",
+  "ens_address": "",
+  "website": "https://makerdao.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@makerdao.com",
+    "url": "https://chat.makerdao.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://chat.makerdao.com",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/makerdao",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/MakerDAO",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/MakerDAO",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "MANA",
+  "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+  "decimals": 18,
+  "name": "Decentraland MANA",
+  "ens_address": "",
+  "website": "https://decentraland.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.decentraland.org",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/decentraland",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://slack.decentraland.org",
+    "telegram": "",
+    "twitter": "https://twitter.com/decentraland",
+    "youtube": ""
+  }
+}
+,
+{
+  "symbol": "DENT",
+  "address": "0x3597bfD533a99c9aa083587B074434E61Eb0A258",
+  "decimals": 8,
+  "name": "DENT",
+  "ens_address": "",
+  "website": "https://www.dentwireless.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
+,
+
+{
+  "symbol": "DCN",
+  "address": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
+  "decimals": 0,
+  "name": "Dentacoin",
+  "ens_address": "Dentacoin.eth",
+  "website": "https://dentacoin.com",
+  "logo": {
+    "src": "https://dentacoin.com/web/img/DCNlogo.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "admin@dentacoin.com",
+    "url": "https://dentacoin.com"
+  },
+  "social": {
+    "blog": "https://www.blog.dentacoin.com",
+    "chat": "https://dentacoin.com",
+    "facebook": "https://www.facebook.com/dentacoin",
+    "forum": "https://bitcointalk.org/index.php?topic=1944236.0",
+    "github": "https://github.com/Dentacoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Dentacoin",
+    "slack": "",
+    "telegram": "https://t.me/dentacoin",
+    "twitter": "https://twitter.com/dentacoin?lang=en",
+    "youtube": "https://www.youtube.com/channel/UCSL-UsN8dc4CzHWiCv-NfrQ"
+  }
+}
+,
+{
+  "symbol": "DRGN",
+  "address": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
+  "decimals": 18,
+  "name": "Dragon",
+  "ens_address": "dragonchain.eth",
+  "website": "https://dragonchain.com",
+  "logo": {
+    "src": "https://dragonchain.com/assets/images/dragon.png",
+    "width": 813,
+    "height": 879,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@dragonchain.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://dragonchain.com/blog",
+    "chat": "https://t.me/dragontalk",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/dragonchain/dragonchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18216867",
+    "reddit": "https://www.reddit.com/r/dragonchain",
+    "slack": "",
+    "telegram": "https://t.me/dragontalk",
+    "twitter": "https://twitter.com/dragonchaingang",
+    "youtube": "https://www.youtube.com/channel/UC2_StJYNWFrQz2wiL8n6hoA/videos"
+  }
+}
+,
+{
+  "symbol": "BQX",
+  "address": "0x5Af2Be193a6ABCa9c8817001F45744777Db30756",
+  "decimals": 8,
+  "name": "Bitquence",
+  "ens_address": "",
+  "website": "https://www.bitquence.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@bitquence.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://web.facebook.com/bitquence",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Bitquence",
+    "slack": "https://join.slack.com/bitquence/shared_invite/MTk1NzYxMDkzMjAyLTE0OTcwNzI4ODUtNjhlYzRlY2Q2MQ",
+    "telegram": "https://t.me/joinchat/AAAAAEN05nZ0Fzxm_lmYiw",
+    "twitter": "https://twitter.com/bitquence",
+    "youtube": ""
+  }
+}
+,
+{
+  "symbol": "GVT",
+  "address": "0x103c3A209da59d3E7C4A89307e66521e081CFDF0",
+  "decimals": 18,
+  "name": "Genesis Vision",
+  "ens_address": "",
+  "website": "https://genesis.vision",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@genesis.vision",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/GenesisVision",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/genesisvision",
+    "twitter": "https://twitter.com/genesis_vision",
+    "youtube": ""
+  }
+}
+,
+{
+  "symbol": "ICN",
+  "address": "0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+  "decimals": 18,
+  "name": "ICN",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
+,
+{
+  "symbol": "KIN",
+  "address": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5",
+  "decimals": 18,
+  "name": "Kin Foundation",
+  "ens_address": "",
+  "website": "https://kin.kik.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "kin@kik.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/kinfoundation",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/kikinteractive/kin-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/KinFoundation",
+    "slack": "https://kinfoundation.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/@kin_foundation",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "LRC",
+  "address": "0xEF68e7C694F40c8202821eDF525dE3782458639f",
+  "decimals": 18,
+  "name": "LRC",
+  "ens_address": "",
+  "website": "https://loopring.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "foundation@loopring.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/loopringorg",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "LUN",
+  "address": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
+  "decimals": 18,
+  "name": "LUN",
+  "ens_address": "",
+  "website": "https://lunyr.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/lunyr",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "MKR",
+  "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+  "decimals": 18,
+  "name": "MakerDAO",
+  "ens_address": "",
+  "website": "https://makerdao.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@makerdao.com",
+    "url": "https://chat.makerdao.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://chat.makerdao.com",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/makerdao",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/makerdao",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/MakerDAO",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "MLN",
+  "address": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1",
+  "decimals": 18,
+  "name": "Melonport",
+  "ens_address": "",
+  "website": "https://melonport.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://chat.melonport.com",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "MTL",
+  "address": "0xF433089366899D83a9f26A773D59ec7eCF30355e",
+  "decimals": 8,
+  "name": "MetalPay",
+  "ens_address": "",
+  "website": "https://www.metalpay.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@metalpay.co",
+    "url": "https://support.metalpay.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://www.metalpay.chat",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
+,
+{
+  "symbol": "PLR",
+  "address": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
+  "decimals": 18,
+  "name": "Pillar Project",
+  "ens_address": "",
+  "website": "https://www.pillarproject.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/twentythirty/PillarToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://pillarproject.slack.com",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "POE",
+  "address": "0x0e0989b1f9B8A38983c2BA8053269Ca62Ec9B195",
+  "decimals": 8,
+  "name": "Po.et Tokens",
+  "ens_address": "",
+  "website": "https://po.et",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@po.et",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "POWR",
+  "address": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
+  "decimals": 6,
+  "name": "PowerLedger",
+  "ens_address": "",
+  "website": "https://powerledger.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "mc@powerledger.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
+,
+{
+  "symbol": "QASH",
+  "address": "0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6",
+  "decimals": 6,
+  "name": "QASH",
+  "ens_address": "",
+  "website": "https://liquid.plus",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://liquid-qash.zendesk.com"
+  },
+  "social": {
+    "blog": "https://steemit.com/@quoineliquid",
+    "chat": "",
+    "facebook": "https://www.facebook.com/QUOINE.SG",
+    "forum": "https://bitcointalk.org/index.php?topic=2256844",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/QASH",
+    "slack": "",
+    "telegram": "https://t.me/QUOINE",
+    "twitter": "https://twitter.com/quoine_SG",
+    "youtube": "https://www.youtube.com/channel/UCOR2GJnFoOgTazC5v6mBTSA"
+  }
+}
+,
+{
+  "symbol": "QSP",
+  "address": "0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d",
+  "decimals": 18,
+  "name": "Quantstamp Token",
+  "ens_address": "",
+  "website": "https://quantstamp.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/quantstamp",
+    "chat": "",
+    "facebook": "https://www.facebook.com/quantstamp/",
+    "forum": "",
+    "github": "https://github.com/quantstamp",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Quantstamp/",
+    "slack": "",
+    "telegram": "https://t.me/quantstamp",
+    "twitter": "https://twitter.com/Quantstamp",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "RDN",
+  "address": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
+  "decimals": 18,
+  "name": "Raiden Network",
+  "ens_address": "",
+  "website": "https://raiden.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@raiden.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://riot.im/app/#/room/#raiden-network:matrix.org",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/raiden-network/raiden/",
+    "gitter": "https://gitter.im/raiden-network/raiden",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/raidennetwork",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/raiden_network",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "REQ",
+  "address": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
+  "decimals": 18,
+  "name": "Request Network",
+  "ens_address": "",
+  "website": "https://request.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "req@request.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/requestnetwork",
+    "slack": "https://requestnetwork.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/requestnetwork",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "RVT",
+  "address": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244",
+  "decimals": 18,
+  "name": "Rivetz",
+  "ens_address": "",
+  "website": "https://rivetzintl.com",
+  "logo": {
+    "src": "https://rivetz.com/img/logo/color-250px.png",
+    "width": 250,
+    "height": 250,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "sales@rivetzintl.com",
+    "url": "https://rivetzintl.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/VNrDBUV",
+    "facebook": "https://www.facebook.com/Rivetz-1409224065995167",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/rivet_group",
+    "twitter": "https://twitter.com/rivetzcorp",
+    "youtube": "https://www.youtube.com/watch?v=GbC65mIMjnw"
+  }
+}
+,
+{
+  "symbol": "SAN",
+  "address": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
+  "decimals": 18,
+  "name": "Santiment",
+  "ens_address": "",
+  "website": "https://santiment.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@santiment.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/santiment",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://santiment-slack.herokuapp.com",
+    "telegram": "https://t.me/santiment_network",
+    "twitter": "https://twitter.com/santimentfeed",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "SNGLS",
+  "address": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009",
+  "decimals": 0,
+  "name": "SingularDTV",
+  "ens_address": "",
+  "website": "https://singulardtv.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://slack.singulardtv.com",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "STORM",
+  "address": "0xD0a4b8946Cb52f0661273bfbC6fD0E0C75Fc6433",
+  "decimals": 18,
+  "name": "Storm Token",
+  "ens_address": "",
+  "website": "https://www.stormtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@stormtoken.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/stormtoken",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GHTZGQwsy9mZk0KFEEjGtg",
+    "twitter": "https://twitter.com/storm_token",
+    "youtube": ""
+  }
+},
+
+{
+  "symbol": "SUB",
+  "address": "0x12480E24eb5bec1a9D4369CaB6a80caD3c0A377A",
+  "decimals": 2,
+  "name": "Substratum",
+  "ens_address": "",
+  "website": "https://substratum.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SubstratumNetwork",
+    "slack": "http://x.co/SubSlack",
+    "telegram": "",
+    "twitter": "https://twitter.com/SubstratumNet",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "TaaS",
+  "address": "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
+  "decimals": 6,
+  "name": "Token-as-a-Service",
+  "ens_address": "",
+  "website": "https://taas.fund",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://taasfund.signup.team",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "BNB",
+  "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+  "decimals": 18,
+  "name": "BNB",
+  "ens_address": "",
+  "website": "https://www.binance.com",
+  "logo": {
+    "src": "https://etherscan.io/token/images/binance_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@binance.zendesk.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/binance2017",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/binance",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/binance_2017",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "VEN",
+  "address": "0xD850942eF8811f2A866692A623011bDE52a462C1",
+  "decimals": 18,
+  "name": "Vechain",
+  "ens_address": "",
+  "website": "https://tokensale.vechain.com/en",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@vechain.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "http://u.wechat.com/MH_e7eabTidsPXiG842RsHM",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/vechain-team",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://vechainofficial.slack.com",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "OMG",
+  "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+  "decimals": 18,
+  "name": "OMG",
+  "ens_address": "",
+  "website": "https://omisego.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/omisego",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "ZRX",
+  "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+  "decimals": 18,
+  "name": "0x Project",
+  "ens_address": "",
+  "website": "https://0xproject.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/0xProject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "ZIL",
+  "address": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27",
+  "decimals": 12,
+  "name": "Zilliqa",
+  "ens_address": "",
+  "website": "https://www.zilliqa.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "enquiry@zilliqa.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/zilliqa",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/zilliqa/",
+    "slack": "",
+    "telegram": "https://t.me/zilliqa",
+    "twitter": "https://twitter.com/zilliqa",
+    "youtube": "https://www.youtube.com/channel/UCvinnFbf0u71cajoxKcfZIQ"
+  }
+},
+{
+  "symbol": "ICX",
+  "address": "0xb5A5F22694352C15B00323844aD545ABb2B11028",
+  "decimals": 18,
+  "name": "ICON",
+  "ens_address": "",
+  "website": "https://www.icon.foundation",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@icon.foundation",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/helloiconworld",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/icon",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Fqw4igkkVmYtj--ZVi-QcA",
+    "twitter": "https://twitter.com/helloiconworld",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "AE",
+  "address": "0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d",
+  "decimals": 18,
+  "name": "aeternity",
+  "ens_address": "",
+  "website": "https://www.aeternity.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@aeternity.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.aeternity.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/aeternityproject/",
+    "forum": "",
+    "github": "https://github.com/aeternity",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Aeternity/",
+    "slack": "",
+    "telegram": "https://telegram.me/aeternity",
+    "twitter": "https://twitter.com/aetrnty",
+    "youtube": ""
+  }
+}
+,
+{
+  "symbol": "BAT",
+  "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+  "decimals": 18,
+  "name": "BAT",
+  "ens_address": "",
+  "website": "https://basicattentiontoken.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "REP",
+  "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
+  "decimals": 18,
+  "name": "Augur",
+  "ens_address": "",
+  "website": "https://augur.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Augur",
+    "slack": "https://invite.augur.net",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "BTM",
+  "address": "0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750",
+  "decimals": 8,
+  "name": "Bytom",
+  "ens_address": "",
+  "website": "https://bytom.io",
+  "logo": {
+    "src": "https://etherscan.io/token/images/bytom_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@bytom.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/bytom",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/Bytom_Official",
+    "youtube": ""
+  }
+},
+
+{
+  "symbol": "GNT",
+  "address": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
+  "decimals": 18,
+  "name": "Golem",
+  "ens_address": "",
+  "website": "https://golem.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://golemproject.org:3000",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
+,
+{
+  "symbol": "CVC",
+  "address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
+  "decimals": 8,
+  "name": "CVC",
+  "ens_address": "",
+  "website": "https://www.civic.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "BRD",
+  "address": "0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6",
+  "decimals": 18,
+  "name": "Bread",
+  "ens_address": "",
+  "website": "https://token.breadapp.com/en",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/breadwallet",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
+,
+{
+  "symbol": "ANT",
+  "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+  "decimals": 18,
+  "name": "ANT",
+  "ens_address": "",
+  "website": "https://aragon.one/network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
+,
+
+{
+  "symbol": "DNT",
+  "name": "DistrictOx",
+  "type": "ERC20",
+  "address": "0x0abdace70d3790235af448c88547603b945604ea",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://district0x.io",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "https://blog.district0x.io",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/district0x",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://district0x-slack.herokuapp.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/district0x",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "SPANK",
+  "name": "SpankChain",
+  "type": "ERC20",
+  "address": "0x42d6622dece394b54999fbd73d108123806f6a18",
+  "ens_address": "spankchain.eth",
+  "decimals": 18,
+  "website": "https://spankchain.com",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "https://medium.com/spankchain",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/_spankchain",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SpankChain",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/SpankChain",
+    "youtube": "https://www.youtube.com/channel/UCRonD1SJuucnq9GJCJL_crQ"
+  }
+},
+
+{
+  "symbol": "POLY",
+  "name": "Polymath Network",
+  "type": "ERC20",
+  "address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://polymath.network",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "support@polymath.zendesk.com", "url": "" },
+  "social": {
+    "blog": "https://blog.polymath.network",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://t.me/polymathnetwork",
+    "twitter": "https://twitter.com/polymathnetwork",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "GTO",
+  "name": "Gifto",
+  "type": "ERC20",
+  "address": "0xc5bbae50781be1669306b9e001eff57a2957b09d",
+  "ens_address": "",
+  "decimals": 5,
+  "website": "https://gifto.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "https://medium.com/@GIFTO",
+    "chat": "",
+    "facebook": "https://www.facebook.com/gifto.io/",
+    "forum": "",
+    "github": "https://github.com/GIFTO-io",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/GIFTO-io/",
+    "slack": "",
+    "telegram": "https://t.me/GIFTOOfficial",
+    "twitter": "https://twitter.com/GIFTO_io",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "BOX",
+  "name": "BOX Token",
+  "type": "ERC20",
+  "address": "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://box.la/",
+  "logo": {
+    "src": "https://box.la/box_logo200px.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "contact@box.la", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/boxla888",
+    "forum": "",
+    "github": "https://github.com/boxproject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/boxla888/",
+    "slack": "https://box-la.slack.com/",
+    "telegram": "https://t.me/safeboxla",
+    "twitter": "https://twitter.com/boxla888",
+    "youtube": ""
+  }
+}
+,
+{
+  "symbol": "ABYSS",
+  "name": "ABYSS",
+  "type": "ERC20",
+  "address": "0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://www.theabyss.com",
+  "logo": {
+    "src": "https://www.theabyss.com/static/img/abyss_28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@theabyss.com",
+    "url": "https://t.me/theabyss"
+  },
+  "social": {
+    "blog": "https://medium.com/theabyss",
+    "discord": "https://discord.theabyss.com",
+    "facebook": "https://www.facebook.com/theabyss",
+    "forum": "https://bitcointalk.theabyss.com",
+    "github": "https://github.com/theabyssportal",
+    "gitter": "",
+    "instagram": "https://instagram.com/theabyssportal",
+    "linkedin": "https://www.linkedin.com/company/theabyss",
+    "reddit": "https://reddit.theabyss.com",
+    "slack": "",
+    "telegram": "https://t.me/theabyss",
+    "twitter": "https://twitter.com/theabyss",
+    "vimeo": "https://www.vimeo.com/theabyss"
+  }
+},
+{
+  "symbol": "KNC",
+  "name": "Kyber Network",
+  "type": "ERC20",
+  "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://kyber.network",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "hello@kyber.network", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/KyberNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://kybernetwork.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/KyberNetwork",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "SNT",
+  "name": "Status Network Token",
+  "type": "ERC20",
+  "address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://status.im",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
+
+
+]
