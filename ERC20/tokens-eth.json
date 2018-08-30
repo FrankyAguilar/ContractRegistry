@@ -1,5 +1,38 @@
 [
    {
+      "symbol":"WETH",
+      "address":"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "decimals":18,
+      "name":"Wrapped Eth",
+      "ens_address":"",
+      "website":"https://weth.io",
+      "logo":{
+         "src":"",
+         "width":"",
+         "height":"",
+         "ipfs_hash":""
+      },
+      "support":{
+         "email":"",
+         "url":""
+      },
+      "social":{
+         "blog":"",
+         "chat":"",
+         "facebook":"",
+         "forum":"",
+         "github":"",
+         "gitter":"",
+         "instagram":"",
+         "linkedin":"",
+         "reddit":"",
+         "slack":"",
+         "telegram":"",
+         "twitter":"",
+         "youtube":""
+      }
+   }
+,{
       "symbol":"ADT",
       "address":"0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
       "decimals":9,
