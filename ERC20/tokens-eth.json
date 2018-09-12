@@ -2123,7 +2123,7 @@
    {
       "symbol":"NFTY",
       "address":"0xdd89d6ab3aca67ed697492ba4de2f2763490224b",
-      "decimals":18,
+      "decimals":3,
       "name":"NFTY Token",
       "ens_address":"",
       "website":"",
