@@ -2085,5 +2085,72 @@
          "twitter":"",
          "youtube":""
       }
+   },
+   {
+      "symbol":"DAI",
+      "address":"0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+      "decimals":18,
+      "name":"Dai Stablecoin v1.0",
+      "ens_address":"",
+      "website":"",
+      "logo":{
+         "src":"",
+         "width":"",
+         "height":"",
+         "ipfs_hash":""
+      },
+      "support":{
+         "email":"",
+         "url":""
+      },
+      "social":{
+         "blog":"",
+         "chat":"",
+         "facebook":"",
+         "forum":"",
+         "github":"",
+         "gitter":"",
+         "instagram":"",
+         "linkedin":"",
+         "reddit":"",
+         "slack":"",
+         "telegram":"",
+         "twitter":"",
+         "youtube":""
+      }
+   },
+
+   {
+      "symbol":"NFTY",
+      "address":"0xdd89d6ab3aca67ed697492ba4de2f2763490224b",
+      "decimals":18,
+      "name":"NFTY Token",
+      "ens_address":"",
+      "website":"",
+      "logo":{
+         "src":"",
+         "width":"",
+         "height":"",
+         "ipfs_hash":""
+      },
+      "support":{
+         "email":"",
+         "url":""
+      },
+      "social":{
+         "blog":"",
+         "chat":"",
+         "facebook":"",
+         "forum":"",
+         "github":"",
+         "gitter":"",
+         "instagram":"",
+         "linkedin":"",
+         "reddit":"",
+         "slack":"",
+         "telegram":"",
+         "twitter":"",
+         "youtube":""
+      }
    }
 ]
